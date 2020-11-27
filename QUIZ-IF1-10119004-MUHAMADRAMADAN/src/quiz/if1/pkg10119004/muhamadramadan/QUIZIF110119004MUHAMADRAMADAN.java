@@ -10,6 +10,10 @@ import java.util.Scanner;
 /**
  *
  * @author ENDOG
+ *Nama      : Muhamad Ramadan
+ *Nim       : 10119004
+ *Kelas     : IF1
+ *Deskripsi : Program ini berupa tentang Rock n Roll Haircut
  */
 public class QUIZIF110119004MUHAMADRAMADAN {
 
