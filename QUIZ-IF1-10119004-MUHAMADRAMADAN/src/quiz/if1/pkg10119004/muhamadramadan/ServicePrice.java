@@ -8,6 +8,10 @@ package quiz.if1.pkg10119004.muhamadramadan;
 /**
  *
  * @author ENDOG
+ *Nama      : Muhamad Ramadan
+ *Nim       : 10119004
+ *Kelas     : IF1
+ *Deskripsi : Program ini berupa tentang Rock n Roll Haircut
  */
 class ServicePrice {
     private float priceService, discount;
